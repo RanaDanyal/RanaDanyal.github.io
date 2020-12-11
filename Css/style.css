@@ -146,4 +146,31 @@ body {
     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
     text-decoration: none;
   }
+  @media screen and (max-width:900px){
+    .top-container{
+      width: 100%;
+    }
+    .middle-container{
+      width: 100%;
+    }
+    .bottom-container{
+      width: 100%;
+    }
+    .chilli_pic{
+      width: 50%;
+    }
+    .skill_img{
+      width: 100%;
+    }
+    .top-cloud{
+      width: 30%;
+    }
+    .mountain{
+      width: 100%;
+    }
+    .middle-cloud{
+      width: 20%;
+    }
+
+  }
   
